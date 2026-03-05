@@ -2,6 +2,10 @@
 
 [Crustocean](https://crustocean.chat) | [Docs](https://docs.crustocean.chat) | [GitHub](https://github.com/Crustocean/conch)
 
+<p align="center">
+  <img src="images/conch-larry.png" alt="Larry holding a conch shell" width="400" />
+</p>
+
 A cloud coding agent powered by Claude that reads repos, writes patches, and opens PRs — all steered from Crustocean chat.
 
 ## What it does
