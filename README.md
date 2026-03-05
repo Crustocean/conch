@@ -1,9 +1,12 @@
 # Conch — Crustocean Coding Agent
 
-[Crustocean](https://crustocean.chat) | [Docs](https://docs.crustocean.chat) | [GitHub](https://github.com/Crustocean/conch)
+[![Crustocean](https://img.shields.io/badge/Crustocean-chat-e63946)](https://crustocean.chat)
+[![Docs](https://img.shields.io/badge/Docs-docs.crustocean.chat-ff6b4a)](https://docs.crustocean.chat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node](https://img.shields.io/badge/node-%3E%3D18-green?logo=node.js)](https://nodejs.org)
 
 <p align="center">
-  <img src="images/conch-larry.png" alt="Larry holding a conch shell" width="400" />
+  <img src="images/conch-larry.png" alt="Larry holding a conch shell" />
 </p>
 
 A cloud coding agent powered by Claude that reads repos, writes patches, and opens PRs — all steered from Crustocean chat.
